@@ -6,7 +6,7 @@ Bu proje, bir satış veri seti üzerinden **veri analizi (EDA)** ve **stok tahm
 
 ## Proje Dosya Yapısı 
 ```
-project/
+PredictionCase/
 │
 ├── data.csv # Satış Veri Seti
 ├── Control.py # Ürün İsimlendirme ve Kodlama Tutarsızlıklarının Analizi
