@@ -16,6 +16,20 @@ PredictionCase/
 ├── stokTahmin-2.py # Haftalık Satış Verileri İle Gelecek Ay Satış Tahmini
 ├── stokTahmin-3.py # Aylık Satış Verileri İle Gelecek Ay Satış Tahmini
 ├── stokTahmin-3_GradientBoostingModel.py # Aylık Satış Verileri İle Gelecek Ay Satış Tahmini
+├── Images/ # Grafiklerin Ekran Görüntüleri
+│   ├── Aylik-Satis-Dagilimi.png
+│   ├── Aylik-Satislar.png
+│   ├── Fiyat-Satis-Miktari-Iliskisi.png
+│   ├── Gercek-ve-Tahmin-Edilen-Satis-Karsilastirilmasi.png
+│   └── Gunluk-Satis-Dagilimi.png
+│   ├── Mevsimsel-Satis-Miktari.png
+│   ├── Saatlik-Satis-Dagilimi.png
+│   ├── Test-Verisi.png
+│   ├── Walk-Forward-Validation-Gelecek-Ay-Tahmini.png
+│   └── Yillara-Gore-Aylik-Satislar.png
+│   ├── Yillik-Toplam-Satislar.png
+│   ├── Zaman-Icinde-Fiyat.png
+│   ├── Zaman-Icinde-Satis-Miktari.png
 └── README.md # Proje Açıklamaları
 ```
 
