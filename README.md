@@ -4,7 +4,8 @@ Bu proje, bir satış veri seti üzerinden **veri analizi (EDA)** ve **stok tahm
 
 ---
 
-## Proje Dosya Yapısı
+## Proje Dosya Yapısı 
+```
 project/
 │
 ├── data.csv # Satış Veri Seti
@@ -16,6 +17,7 @@ project/
 ├── stokTahmin-3.py # Aylık Satış Verileri İle Gelecek Ay Satış Tahmini
 ├── stokTahmin-3_GradientBoostingModel.py # Aylık Satış Verileri İle Gelecek Ay Satış Tahmini
 └── README.md # Proje Açıklamaları
+```
 
 ---
 
